@@ -19,6 +19,7 @@ namespace Shichang
 
         private void button1_Click(object sender, EventArgs e)
         {
+            
             //chart1.Series.
             DataTable dt = default(DataTable);
             dt = CreateDataTable();

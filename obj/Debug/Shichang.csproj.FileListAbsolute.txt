@@ -10,3 +10,6 @@ E:\tqw\Shichang\Shichang\obj\Debug\Shichang.pdb
 C:\Users\Tester\Desktop\Shichang\Shichang\bin\Debug\Shichang.exe.config
 C:\Users\Tester\Desktop\Shichang\Shichang\obj\Debug\Shichang.exe
 C:\Users\Tester\Desktop\Shichang\Shichang\obj\Debug\Shichang.pdb
+C:\Users\Tester\Documents\GitHub\Shichang\Shichang\bin\Debug\Shichang.exe.config
+C:\Users\Tester\Documents\GitHub\Shichang\Shichang\obj\Debug\Shichang.exe
+C:\Users\Tester\Documents\GitHub\Shichang\Shichang\obj\Debug\Shichang.pdb
