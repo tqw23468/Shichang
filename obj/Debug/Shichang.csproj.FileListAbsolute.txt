@@ -1,0 +1,12 @@
+E:\tqw\Shichang\Shichang\bin\Debug\Shichang.exe.config
+E:\tqw\Shichang\Shichang\bin\Debug\Shichang.exe
+E:\tqw\Shichang\Shichang\bin\Debug\Shichang.pdb
+E:\tqw\Shichang\Shichang\obj\Debug\Shichang.csprojResolveAssemblyReference.cache
+E:\tqw\Shichang\Shichang\obj\Debug\Shichang.Form1.resources
+E:\tqw\Shichang\Shichang\obj\Debug\Shichang.Properties.Resources.resources
+E:\tqw\Shichang\Shichang\obj\Debug\Shichang.csproj.GenerateResource.Cache
+E:\tqw\Shichang\Shichang\obj\Debug\Shichang.exe
+E:\tqw\Shichang\Shichang\obj\Debug\Shichang.pdb
+C:\Users\Tester\Desktop\Shichang\Shichang\bin\Debug\Shichang.exe.config
+C:\Users\Tester\Desktop\Shichang\Shichang\obj\Debug\Shichang.exe
+C:\Users\Tester\Desktop\Shichang\Shichang\obj\Debug\Shichang.pdb
